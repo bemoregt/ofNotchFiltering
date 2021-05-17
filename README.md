@@ -10,3 +10,12 @@ Notch filtering using ofxCv
 ### Algorithm
 - Image Notch Filtering using 2D Fourier Transform
 - Ideal Point Notch function is used.
+
+### Dependancy
+- Openframeworks 11.1
+- ofxCv, ofxOpenCV
+- OSX Catlina
+
+### Next Plan
+- GUI version for Mouse Darwing Notch Filter
+
