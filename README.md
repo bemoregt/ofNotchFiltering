@@ -19,7 +19,7 @@ Notch filtering using ofxCv & Fourier Transform.
 
 ### Algorithm
 - Image Notch Filtering using 2D Fourier Transform
-- Ideal Point Notch function is used.
+- Ideal Point Notch function was used.
 
 ### Dependancy
 - Openframeworks 0.11.x
