@@ -28,5 +28,5 @@ Notch filtering using ofxCv & Fourier Transform.
 - OSX Catalina
 
 ### Next Plan
-- GUI version for Mouse Darwing Notch Filter
+- GUI version for Mouse Drawing Notch Filter
 
