@@ -5,6 +5,10 @@ Notch filtering using ofxCv & Fourier Transform.
 - Notch Filtering in Frequency Domain
 
 
+
+
+
+
 ![notch exampleq]( https://github.com/bemoregt/ofNotchFiltering/blob/master/before.png "example")
 - Before Notch
 
