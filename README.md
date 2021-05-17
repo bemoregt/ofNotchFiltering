@@ -22,9 +22,10 @@ Notch filtering using ofxCv & Fourier Transform.
 - Ideal Point Notch function is used.
 
 ### Dependancy
-- Openframeworks 11.1
+- Openframeworks 0.11.x
 - ofxCv, ofxOpenCV
-- OSX Catlina
+- XCode 11.1
+- OSX Catalina
 
 ### Next Plan
 - GUI version for Mouse Darwing Notch Filter
